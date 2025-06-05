@@ -21,8 +21,7 @@ El objetivo principal de este repositorio es servir como material de estudio per
 ## 🛠 Tecnologías
 
 - Lenguaje: Python 3.x
-- Editor sugerido: VS Code, PyCharm, o cualquier editor de texto con soporte para Python
-
+- Editor: VS Code
 ## ✍️ Autor
 
 Desarrollado por [Stephany Moreno](https://github.com/Kanny26)
